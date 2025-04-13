@@ -29,5 +29,7 @@ Using this system:
 Students can access their courses, track progress, and communicate with teachers.
 Teachers can upload materials, give assignments, and evaluate student performance.
 Admins can manage users, monitor activities, and maintain the academic structure.
-The system saves time, improves communication, and ensures that learning continues smoothly whether on campus or remotely.
+The system saves time, improves communication, and ensures that learning continues smoothly whether on campus or remotely.  
+[Screenshots.zip](https://github.com/user-attachments/files/19722562/Screenshots.zip)
+
 
